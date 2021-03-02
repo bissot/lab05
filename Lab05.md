@@ -24,3 +24,10 @@ https://github.com/bissot/lab05/tree/master/step4_files
 # Files for Part 5 
 (/step5_files)
 https://github.com/bissot/lab05/tree/master/step5_files 
+
+# Files for Part two, including the Makefile, the CMakeLists.txt
+(/Part2)
+https://github.com/bissot/lab05/tree/master/Part2 
+https://github.com/bissot/lab05/blob/master/Part2/Makefile
+https://github.com/bissot/lab05/blob/master/Part2/CMakeLists.txt
+
